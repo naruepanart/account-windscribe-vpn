@@ -1,7 +1,6 @@
 # firefox-muti-ip
 
-[![huDwCP.png](https://www.picz.in.th/images/2018/10/08/huDwCP.png)](https://www.picz.in.th/image/huDwCP)
-
+![h62PoP.png](https://www.picz.in.th/images/2018/10/08/h62PoP.png)
 
 ## Download 
 https://addons.mozilla.org/en-US/firefox/addon/windscribe/  \
@@ -12,3 +11,4 @@ https://addons.mozilla.org/en-US/firefox/addon/windscribe/  \
 ID
 nH5gAUKN  \
 E4mBveEM
+
