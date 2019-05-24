@@ -12,8 +12,6 @@ https://addons.mozilla.org/en-US/firefox/addon/windscribe/
 
 nH5gAUKN
 
-E4mBveEM
-
 xunodihur
 
 lawogofeze
